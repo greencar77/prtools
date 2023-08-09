@@ -1,7 +1,7 @@
 "use strict";
 
 function main() {
-	console.log('Start prnice.....');
+	console.log('Start prnice');
 
     let activityBlock = getActivityBlock();
 	let target = getContentPanel();
